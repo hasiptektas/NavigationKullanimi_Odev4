@@ -1,5 +1,5 @@
 # NavigationKullanimi_Odev4
-fragment in navigation with using popUpto Specs
+fragments in navigation with using popUpto Specs
 
 #TechCareer BootCamp
 
