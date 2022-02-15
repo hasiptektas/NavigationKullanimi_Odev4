@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Radius of all four corners-->
+    <corners
+        android:bottomRightRadius="50dp"
+        android:bottomLeftRadius="10dp"
+        android:topLeftRadius="50dp"
+        android:topRightRadius="10dp"/>
+
+    <!--Stroke size and color-->
+    <stroke android:width="2dp"
+        android:color="@color/sparkle_background_5" />
+
+    <!--Fill Color of the Button-->
+    <gradient android:angle="-90"
+        android:startColor="@color/sparkle_background_1"
+        android:endColor="@color/sparkle_background_1"  />
+</shape>

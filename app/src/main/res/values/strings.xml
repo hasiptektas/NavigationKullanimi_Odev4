@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Odev4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="anasayfa">Anasayfaya Hoşgeldiniz</string>
+    <string name="sayfa_a">Sayfa A</string>
+    <string name="sayfa_b">Sayfa B</string>
+    <string name="sayfa_x">Sayfa X</string>
+    <string name="sayfa_y">Sayfa Y</string>
+
+    <string name="x_git">X \'e Gider</string>
+    <string name="y_git">Y \'e Gider</string>
+    <string name="a_git">A \'ya Gider</string>
+    <string name="b_git">B \'ye Gider</string>
+</resources>
